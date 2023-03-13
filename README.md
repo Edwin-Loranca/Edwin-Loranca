@@ -2,7 +2,8 @@
 
 ## 
 
-### <div align="center"> Hi!.. 👋, my name is Edwin and I'm a Data Analyst.<br/> I think that data is really interesting because it always helps us understand everything. <br/> The data always tells the truth. <br/> I am very curious and I love to learn all the time.</div>  
+
+### <div align="center"> Hi!.. 👋, my name is Edwin and I'm a Data Analyst.<br/> I think that data is really interesting because it always helps us understand everything. <br/> The data always tells the truth. <br/> I'm very curious and I love to learn all the time.</div>  
   
   ## 
 
