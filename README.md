@@ -3,17 +3,17 @@
 ## 
 
 
-### <div align="center"> Hi!.. 👋, my name is Edwin and I'm a Data Analyst.<br/> I think that data is really interesting because it always helps us understand everything. <br/> The data always tells the truth. <br/> I'm very curious and I love to learn all the time.</div>  
+### <div align="center"> Hi!.. 👋, my name is Edwin and I'm a Data Engineer.<br/> I think that data is really interesting because it always helps us understand everything. <br/> The data always tells the truth. <br/> I'm very curious and I love to learn all the time.</div>  
   
   ## 
 
-- 👀 I’m interesting in Data Analyst, Data Science and Artificial Intelligence.  
+- 👀 I’m interesting in Data Engineering, Data Science and Artificial Intelligence.  
   
 
-- 🌱 I’m currently learning in Platzi about Data Analysis and Data Science.  
+- 🌱 I’m currently learning in Platzi about Data Engineering and Cloud services.  
   
 
-- 👩‍💻 I looking to collaborate on Data Analytics and Data Science projects.  
+- 👩‍💻 I looking to collaborate on Data Engineering and Data Science projects.  
   
 <br/>  
 
